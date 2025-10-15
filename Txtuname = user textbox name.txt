@@ -1,4 +1,0 @@
-Txtuname = user textbox name 
-Txtpass = password textbox name 
-Dynmsg = dynamic box name which using for output
-
