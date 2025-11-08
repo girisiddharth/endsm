@@ -1,7 +1,6 @@
 
 to get into file
 mtcars = pd.read_csv('Downloads/dataset')
-
 or 
 
 mtcars = pd.read_csv('Downloads/dataset/mtcars.csv')
@@ -16,5 +15,6 @@ start
 
 import pandas as pd
 mtcars = pd.read_csv('mtcars.csv')
+
 
 
